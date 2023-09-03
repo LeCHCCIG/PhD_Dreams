@@ -12,3 +12,5 @@ Lab Information for Graduate Students
 - Contact details: tuyenl@clemson.edu or (+1) 864 656 3316
 
 - The GitHub repository serves the purpose of preserving and sharing our code, ensuring that valuable information remains accessible to current students even after students graduate from the lab.
+
+- Dr. Le is the principal custodian of this code repository, and any inquiries or requests related to code usage and sharing should be directed to him.
